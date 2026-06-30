@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#81C784</color>
+
+    <color name="secondary">#A5D6A7</color>
+
+    <color name="background">#121212</color>
+
+    <color name="card">#1E1E1E</color>
+
+    <color name="textPrimary">#FFFFFF</color>
+
+    <color name="textSecondary">#CFCFCF</color>
+
+    <color name="white">#1E1E1E</color>
+
+    <color name="searchCard">#F3F7ED</color>
+    <color name="searchIcon">#485935</color>
+    <color name="searchHint">#7D876B</color>
+
+    <color name="divider">#D8E2D0</color>
+
+    <color name="chipBackground">#2F3F2A</color>
+    <color name="chipSelected">#81C784</color>
+
+    <color name="chipText">#DCE7D3</color>
+    <color name="chipTextSelected">#1E1E1E</color>
+
+    <color name="chipStroke">#81C784</color>
+
+    <color name="statusSafe">#66BB6A</color>
+    <color name="statusDanger">#EF5350</color>
+
+    <color name="searchInput">#2F3A25</color>
+
+</resources>
