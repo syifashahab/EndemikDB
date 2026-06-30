@@ -11,7 +11,7 @@ EndemikDB is an Android application that provides information about Indonesia's 
 
 # Developer
 
-<img src="screenshots/profile.jpg" width="160"/>
+<img src="screenshots/profile.png" width="160"/>
 
 | Information | Details |
 |-------------|---------|
@@ -57,7 +57,8 @@ EndemikDB is an Android application that provides information about Indonesia's 
 
 ## Home
 
-<img src="screenshots/home.png" width="250"/>
+<img src="screenshots/home_light.png" width="250"/>
+<img src="screenshots/home_dark.png" width="250"/>
 
 ## Search
 
