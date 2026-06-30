@@ -49,7 +49,7 @@ EndemikDB is an Android application that provides information about Indonesia's 
 
 ---
 
-# 📸 Application Screenshots
+# Application Screenshots
 
 ## Splash Screen
 
